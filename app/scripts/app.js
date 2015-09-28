@@ -8,6 +8,4 @@
  *
  * Main module of the application.
  */
-angular
-
-.module('jschallengeApp', []);
+var jschallengeApp = angular.module('jschallengeApp', []);
